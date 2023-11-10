@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 
 this is a change
 git diff
+
+these are some new edits
